@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**fdvky1/fdvky1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+> fastfetch
+```
 
-Here are some ideas to get you started:
+<img src="elaina-transparant.png" width="200px" align="left" alt="Elaina" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+    ┌──────────────────────────────────────────┐
+    OS : EndeavourOS x86_64
+    Packages : 999 (pacman)
+    WM : Hyprland (Wayland)
+    Terminal : kitty 0.35.2
+    └──────────────────────────────────────────┘
+    
+    ● ● ● ● ● ● ● ●
+```
