@@ -1,7 +1,7 @@
 # Fdvky1
 
 ### About
-> I'm an 18yo programmer passionate about web development and automation. I love exploring new technologies and building projects that streamline processes. Always eager to learn and take on new challenges!
+> I'm a programmer passionate about web development and automation. I love exploring new technologies and building projects that streamline processes. Always eager to learn and take on new challenges!
 
 ```bash
 > fastfetch
